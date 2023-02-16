@@ -1,9 +1,10 @@
-# QDReadHook
+# HxReadHook
 
 [![](https://data.jsdelivr.com/v1/package/gh/xihan123/HXReadHook/badge?style=rounded)](https://www.jsdelivr.com/package/gh/xihan123/HXReadHook)
 ![above](https://img.shields.io/badge/Android-7.0%20or%20above-brightgreen.svg)
 [![Latest Release](https://img.shields.io/github/release/xihan123/HXReadHook.svg)](https://github.com/xihan123/HXReadHook/releases)
 ![downloads](https://img.shields.io/github/downloads/xihan123/HXReadHook/total)
+[![Blank](https://img.shields.io/github/downloads/Xposed-Modules-Repo/cn.xihan.hxds/total?label=LSPosed%20Repo&logo=Android&style=flat&labelColor=F48FB1&logoColor=ffffff)](https://github.com/Xposed-Modules-Repo/cn.xihan.qdds/releases)
 
 ---
 
